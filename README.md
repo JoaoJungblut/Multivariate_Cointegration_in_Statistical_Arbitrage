@@ -9,4 +9,4 @@ The PDF file TS_JOAORAMOSJUNGBLUT_REPORT.pdf, in turn, serves as the final proje
 
 The provided Excel files, Ibovespa.xlsx, StockPrice.xlsx and MarketComposition.xlsx, constitute the databases for project development, respectively, containing information such as Bovespa index data, adjusted closing prices of stocks, and market composition.
 
-Additionally, there is a CSV file, FF_factors.csv, that stores Fama-French factor data generated in another repository. These data are used for conducting robustness tests, expanding the analysis and validation of the proposed model.
+Additionally, there is a CSV file, FF_factors.csv, that stores Fama-French factor data generated in another repository, "BR-Fama-French-Factors". These data are used for conducting robustness tests, expanding the analysis and validation of the proposed model.
